@@ -34,6 +34,12 @@ I'm Ethan, currently a 2028 Computer Science Undergraduate at the 🇬🇧 **Uni
 - `[s::2022-05] [e::2022-06]` [Fabrica AI Robotics](https://www.fabrica.ai/)
   - 3D printing, CAD modelling, PCB designing, microcontrollers & more.
 
+<h2>Fun Facts!</h2>
+
+- I use Arch (CachyOS) btw.
+- I very much have both hardware and software experience.
+- If your work means constant challenge & learning, I'm open to work.
+
 <h2>Reach Out to Me!</h2>
 
 <div align="center">
