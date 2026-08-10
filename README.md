@@ -25,9 +25,9 @@ I'm Ethan, currently a 2028 Computer Science Undergraduate at the 🇬🇧 **Uni
 <h2>Where</h2>
 
 - `[s::2026-06] [e::now]` [ROS-Industrial (ROS-I) Consortium](https://github.com/ros-industrial/)
-  - <a href="https://github.com/ros-industrial/rmf2_task_orchestrator"><picture><source media="(prefers-color-scheme: dark)" srcset="src/Gh_White.svg"><source media="(prefers-color-scheme: light)" srcset="src/Gh_Black.svg"><img alt="GitHub" src="src/Gh_Black.svg" height="16" align="center"></picture></a> Working on [RMF2](https://www.rmf-industrial.org/), a multi-robot orchestration protocol.
+  - <a href="https://github.com/ros-industrial/rmf2_task_orchestrator"><picture><source media="(prefers-color-scheme: dark)" srcset="src/Gh_White.svg"><source media="(prefers-color-scheme: light)" srcset="src/Gh_Black.svg"><img alt="GitHub" src="src/Gh_Black.svg" height="16" align="absmiddle"></picture></a> Working on [RMF2](https://www.rmf-industrial.org/), a multi-robot orchestration protocol.
 - `[s::2026-03] [e::now]` [Cambridge University Malaysia and Singapore Association (CUMSA)](https://github.com/CUMSA/)
-  - <a href="https://github.com/CUMSA/cumsa-website"><picture><source media="(prefers-color-scheme: dark)" srcset="src/Gh_White.svg"><source media="(prefers-color-scheme: light)" srcset="src/Gh_Black.svg"><img alt="GitHub" src="src/Gh_Black.svg" height="16" align="center"></picture></a> Developing [cumsa.org](https://cumsa.org/).
+  - <a href="https://github.com/CUMSA/cumsa-website"><picture><source media="(prefers-color-scheme: dark)" srcset="src/Gh_White.svg"><source media="(prefers-color-scheme: light)" srcset="src/Gh_Black.svg"><img alt="GitHub" src="src/Gh_Black.svg" height="16" align="absmiddle"></picture></a> Developing [cumsa.org](https://cumsa.org/).
   - AWS Database.
 - `[s::2025-04] [e::2025-07]` [RSAF Agile Innovate Digital (RAiD)](https://www.linkedin.com/company/rsaf-raid/posts/?feedView=all)
   - Drone-oriented computer vision.
