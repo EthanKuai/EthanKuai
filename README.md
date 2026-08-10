@@ -36,17 +36,19 @@ I'm Ethan, currently a 2028 Computer Science Undergraduate at the 🇬🇧 **Uni
 
 <h2>Reach Out to Me!</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/EthanKuai" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &ensp;
   <a href="https://www.linkedin.com/in/ethankuai" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &ensp;
   <a href="mailto:ethankuaiek@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
 
 <!--
 **EthanKuai/EthanKuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
