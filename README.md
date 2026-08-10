@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! 👋</h1>
 
-I'm Ethan, currently a 2028 Computer Science Undergraduate at the 🇬🇧 **University of Cambridge**.
+<p>I'm Ethan, currently a 2028 Computer Science Undergraduate at the <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="16" align="absmiddle" /> <b>University of Cambridge</b>.</p>
 
 <h2>What</h2>
 
