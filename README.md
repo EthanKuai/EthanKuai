@@ -2,13 +2,13 @@
 
 <p>I'm Ethan, currently a 2028 Computer Science Undergraduate at the <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="16" align="absmiddle" /> <b>University of Cambridge</b>.</p>
 
-<h2>What</h2>
+<h2>🚩 What</h2>
 
 - Currently working along the full stack.
 - Exploring Embedded systems & Robotics.
 - Exploring low-level programming.
 
-<h2>How</h2>
+<h2>🛠️ How</h2>
 
 <p align="center">
   <!-- https://shields.io/badges -->
@@ -22,7 +22,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
 </p>
 
-<h2>Where</h2>
+<h2>🌎 Where</h2>
 
 - `[s::2026-03] [e::now]` [Cambridge University Malaysia and Singapore Association (CUMSA)](https://github.com/CUMSA/)
   - <a href="https://github.com/CUMSA/cumsa-website"><picture><source media="(prefers-color-scheme: dark)" srcset="src/Gh_White.svg"><source media="(prefers-color-scheme: light)" srcset="src/Gh_Black.svg"><img alt="GitHub" src="src/Gh_Black.svg" height="16" align="absmiddle"></picture></a> Developing [cumsa.org](https://cumsa.org/).
@@ -34,13 +34,13 @@
 - `[s::2022-05] [e::2022-06]` [Fabrica AI Robotics](https://www.fabrica.ai/)
   - 3D printing, CAD modelling, PCB designing, microcontrollers & more.
 
-<h2>Fun Facts!</h2>
+<h2>⚡ Fun Facts!</h2>
 
 - I use Arch (CachyOS) btw.
 - I very much have both hardware and software experience.
 - If your work means constant challenge & learning, I'm open to work.
 
-<h2>Reach Out to Me!</h2>
+<h2>📫 Reach Out to Me!</h2>
 
 <div align="center">
   <a href="https://github.com/EthanKuai" target="_blank">
