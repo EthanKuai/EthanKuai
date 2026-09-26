@@ -13,11 +13,11 @@
 <p align="center">
   <!-- https://shields.io/badges -->
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
 </p>
