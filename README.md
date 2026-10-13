@@ -2,6 +2,8 @@
 
 <p>I'm Ethan, currently a 2028 Computer Science Undergraduate at the <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="16" align="absmiddle" /> <b>University of Cambridge</b>.</p>
 
+My website: [ethankuai.com](https://ethankuai.com) !
+
 <h2>🚩 What</h2>
 
 - Currently working along the full stack.
